@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "npm --prefix hotel-management-app start"
+  }
+}
